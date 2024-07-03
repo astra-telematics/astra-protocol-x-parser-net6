@@ -9,6 +9,7 @@ This package is maintained by Astra Telematics and is currently up-to-date with 
 - [x] Digital I/O
 - [x] Analogue Inputs
 - [x] Driver Behaviour
+- [x] Driver ID
 - [x] Signal Quality
 - [x] GSM Network Info
 - [x] Geofences
